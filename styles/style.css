@@ -167,6 +167,10 @@ h1{
     .cabecalho__menu {
         justify-content: center;
     }
+
+    .cabecalho__menu__link {
+        font-size: 65%;
+    }
     
     .apresentacao {
         flex-direction: column-reverse;
